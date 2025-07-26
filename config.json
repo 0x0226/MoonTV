@@ -13,8 +13,7 @@
     },
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "name": "如意资源",
-      "detail": "https://cj.rycjapi.com"
+      "name": "如意资源"
     },
     "fengchao": {
       "api": "https://api.fczy888.me/api.php/provide/vod",
