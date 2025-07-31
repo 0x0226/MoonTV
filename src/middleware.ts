@@ -18,6 +18,8 @@ export async function middleware(request: NextRequest) {
   if (storageType === 'localstorage' && !process.env.PASSWORD) {
     return NextResponse.next();
 
+  }
+
   // 从cookie获取认证信息
   const authInfo = getAuthInfoFromCookie(request);
 
