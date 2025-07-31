@@ -27,10 +27,6 @@
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "360资源"
     },
-    "wolong": {
-      "api": "https://wolongzyw.com/api.php/provide/vod",
-      "name": "卧龙资源"
-    },
     "jisu": {
       "api": "https://jszyapi.com/api.php/provide/vod",
       "name": "极速资源",
